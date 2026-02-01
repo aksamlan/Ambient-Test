@@ -1,0 +1,352 @@
+[
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.4315259456634521,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.4271421432495117,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.5556750297546387,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.5557482242584229,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.61989426612854,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.6309382915496826,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.8649392127990723,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.2690989971160889,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.2739486694335938,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.206183671951294,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.2078018188476562,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.0063350200653076,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.0016915798187256,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.1633074283599854,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.0353748798370361,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.0681486129760742,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 0.8104231357574463,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 0.7101218700408936,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 0.7035233974456787,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": 200,
+        "duration": 25.3314528465271,
+        "response": "{\"id\":\"c0edebf536c54bf5bc93113fb8e93147\",\"created_at\":1769956355032.0,\"error\":null,\"incomplete_details\":null,\"instructions\":null,\"metadata\":null,\"model\":\"large\",\"object\":\"response\",\"output\":[{\"id\":\"9bfee53a7e2f452e9a2240fe54fbd909\",\"summary\":[],\"type\":\"reasoning\",\"content\":[{\"text\":\"1.  **Identify the user's request.**\\n    *   The user wants me to calculate \\\"2^6 + 16\\\".\\n    *   This is a mathematical expression.\\n    *   The \\\"Stress test message 16\\\" part tells me this is part of a series of"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": 200,
+        "duration": 27.5615656375885,
+        "response": "{\"id\":\"3fa4fc15b3654ab6936c0bc29b3f21e9\",\"created_at\":1769956353520.0,\"error\":null,\"incomplete_details\":null,\"instructions\":null,\"metadata\":null,\"model\":\"large\",\"object\":\"response\",\"output\":[{\"id\":\"8ebc97e81a1e43c88e6b9aa368348673\",\"summary\":[],\"type\":\"reasoning\",\"content\":[{\"text\":\"1.  **Analyze the User's Request:**\\n    *   The user's message is \\\"Stress test message 4: Calculate 2^4 + 4\\\".\\n    *   The \\\"Stress test message 4:\\\" part is metadata. It's important context for *me* to recognize "
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 0.707183837890625,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 0.8437540531158447,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 0.7295222282409668,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 0.8669276237487793,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 31.385997772216797,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 31.40625834465027,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.984105825424194,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.967533588409424,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.157733678817749,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.1775190830230713,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.78864860534668,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.2574951648712158,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.2417230606079102,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.793208122253418,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.206824779510498,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.208371639251709,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.63495445251465,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 1.0800440311431885,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.0330638885498047,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/tools",
+        "method": "GET",
+        "status_code": 405,
+        "duration": 0.8790028095245361,
+        "response": "{\"detail\":\"Method Not Allowed\"}"
+    },
+    {
+        "endpoint": "/v1/models",
+        "method": "GET",
+        "status_code": 200,
+        "duration": 1.0139548778533936,
+        "response": "{\"object\":\"list\",\"data\":[{\"id\":\"zai-org/GLM-4.6\",\"name\":\"GLM 4.6\",\"created\":1759766422,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"quantization\":\"bf16\",\"context_length\":202752,\"max_output_length\":24000,\"pricing\":{\"prompt\":\"0.000035\",\"completion\":\"0.000171\",\"image\":\"0\",\"request\":\"0\",\"input_cache_read\":\"0\",\"input_cache_write\":\"0\"},\"supported_sampling_parameters\":[\"temperature\",\"top_p\",\"frequency_penalty\",\"guided_json\"],\"supported_features\":[\"tools\",\"json_mode\",\"structured_outputs\",\"r"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.469884634017944,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": 200,
+        "duration": 9.790069341659546,
+        "response": "{\"id\":\"d475e8b41e694730b36f6336a08e70be\",\"created_at\":1769956380729.0,\"error\":null,\"incomplete_details\":null,\"instructions\":null,\"metadata\":null,\"model\":\"large\",\"object\":\"response\",\"output\":[{\"id\":\"7b56a6086a814303b7aa20bf9792d2ed\",\"summary\":[],\"type\":\"reasoning\",\"content\":[{\"text\":\"This is a stress test message, let me break down what it's asking me to do:\\n\\nCalculate 2^1 + 31\\n\\nFirst, I need to calculate 2^1, which means 2 raised to the power of 1.\\n2^1 = 2^1 = 2 * 1 = 2\\n\\nThen, I need to a"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": 200,
+        "duration": 19.310492753982544,
+        "response": "{\"id\":\"1d1f641d697b4f189edc4e43e6f38e9f\",\"created_at\":1769956385865.0,\"error\":null,\"incomplete_details\":null,\"instructions\":null,\"metadata\":null,\"model\":\"large\",\"object\":\"response\",\"output\":[{\"id\":\"045b5f913d3640cfbea312a6ec651a4f\",\"summary\":[],\"type\":\"reasoning\",\"content\":[{\"text\":\"1.  **Identify the core task:** The user wants me to calculate `2^0 + 40`. This is a simple arithmetic problem.\\n\\n2.  **Deconstruct the expression:** The expression has two parts: `2^0` and `40`, connected by a `+` "
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": 200,
+        "duration": 24.83392906188965,
+        "response": "{\"id\":\"da4989757e504c2fa8f1239b16539713\",\"created_at\":1769956382929.0,\"error\":null,\"incomplete_details\":null,\"instructions\":null,\"metadata\":null,\"model\":\"large\",\"object\":\"response\",\"output\":[{\"id\":\"77deaa8d415a4a0fa552551aab7e5941\",\"summary\":[],\"type\":\"reasoning\",\"content\":[{\"text\":\"1.  **Identify the core request:** The user has provided a mathematical problem: \\\"Calculate 2^4 + 34\\\". They've also framed it as \\\"Stress test message 34\\\".\\n\\n2.  **Break down the problem:**\\n    *   **Part 1: 2^4"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.989460229873657,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.928740978240967,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.765480279922485,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "endpoint": "/v1/responses",
+        "method": "POST",
+        "status_code": "EXCEPTION",
+        "duration": 30.78859519958496,
+        "error": "HTTPSConnectionPool(host='api.ambient.xyz', port=443): Read timed out. (read timeout=30)"
+    }
+]

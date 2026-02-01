@@ -1,0 +1,13 @@
+# API Keys
+ambient_api_key.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Response files
+full_response.json
+payload.json

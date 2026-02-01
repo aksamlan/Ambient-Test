@@ -66,5 +66,4 @@ python auth_test.py
 ## ⚖️ Disclaimer
 This research was conducted by **HusoNode** for educational and security improvement purposes only. We support the Ambient ecosystem and aim to contribute to its growth.
 
-**Website:** [HusoNode](https://husonode.com) (Example)
-**Contact:** Through Ambient Discord or official channels.
+**Website:** [HusoNode](https://husonode.xyz)

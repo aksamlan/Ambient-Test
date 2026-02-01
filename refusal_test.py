@@ -2,7 +2,14 @@ import http.client
 import json
 import ssl
 
-api_key = "Fc3AKqrXJRn5fgFmEIKWPARp2qDWaGKeqLv5yXto9eWII74szl"
+def get_api_key():
+    try:
+        with open("ambient_api_key.txt", "r") as f:
+            return f.read().strip()
+    except:
+        return None
+
+api_key = get_api_key()
 host = "api.ambient.xyz"
 path = "/v1/responses"
 

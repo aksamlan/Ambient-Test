@@ -1,3 +1,7 @@
+import http.client
+import json
+import ssl
+
 def get_api_key():
     try:
         with open("ambient_api_key.txt", "r") as f:
